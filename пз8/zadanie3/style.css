@@ -1,0 +1,68 @@
+
+body {
+	font: 300 14px/1.8 'Raleway', sans-serif;
+	color: #666;
+	overflow-x: hidden;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+a {
+	color: #E7746F;
+	alink: red;
+	vlink: blue;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #999;
+}
+
+p {
+	text-align: center;
+	text-indent: 1.5em;
+}
+P:first-letter {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    color: red;
+   }
+
+h1, h2, h3, h4, h5, h6 {
+	font: 700 40px/1.2 Raleway, sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	margin: 5px 0 5px;
+	color: #222;
+}
+
+h2 {
+	font-size: 30px;
+	margin: 0 0 30px;
+}
+
+h3 {
+	font-size: 13px;
+	letter-spacing: 1px;
+	margin: 0 0 5px;
+}
+
+h4 {
+	font-size: 12px;
+	letter-spacing: 1px;
+}
+
+h5 {
+	font-size: 12px;
+	letter-spacing: 1px;
+	font-weight: 400;
+}
+
+h6 {
+	font-size: 11px;
+	letter-spacing: 1px;
+	font-weight: 400;
+}
